@@ -21,7 +21,7 @@ admin_user = User.create(
 )
 
 ###el terror de las venecas
-
+# barata me la pelas
 saller_user = User.create(
   email: 'saller@gmail.com',
   password: 'popeyelemarinosoy123',
