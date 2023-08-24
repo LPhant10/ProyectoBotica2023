@@ -20,6 +20,7 @@ admin_user = User.create(
   role: :admin
 )
 
+###el terror de las venecas
 
 saller_user = User.create(
   email: 'saller@gmail.com',
