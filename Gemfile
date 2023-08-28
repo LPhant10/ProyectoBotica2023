@@ -72,7 +72,7 @@ group :test do
   gem "webdrivers"
 end
 
-#aqui estan las gemas para el proyecto
+#aqui estan las gemas para el proyecto prueba
 
 gem "administrate"
 gem 'devise'
