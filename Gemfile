@@ -72,6 +72,7 @@ group :test do
   gem "webdrivers"
 end
 
+#aqui estan las gemas
 
 gem "administrate"
 gem 'devise'
